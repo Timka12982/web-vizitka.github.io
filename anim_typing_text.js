@@ -7,4 +7,4 @@ function fromText (text) {
 		setTimeout (() => fromText (text), 250);
 	}
 }
-fromText ("Визитка веб-разработчика")
+fromText ("Визитка")
